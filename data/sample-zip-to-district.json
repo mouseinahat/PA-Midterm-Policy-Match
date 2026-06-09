@@ -1,0 +1,42 @@
+{
+  "19104": {
+    "city": "Philadelphia",
+    "district": "PA-03",
+    "note": "Sample mapping only; use a real civic API before launch."
+  },
+  "19148": {
+    "city": "Philadelphia",
+    "district": "PA-03",
+    "note": "Sample mapping only; use a real civic API before launch."
+  },
+  "15213": {
+    "city": "Pittsburgh",
+    "district": "PA-12",
+    "note": "Sample mapping only; use a real civic API before launch."
+  },
+  "15237": {
+    "city": "Pittsburgh area",
+    "district": "PA-17",
+    "note": "Sample mapping only; use a real civic API before launch."
+  },
+  "18101": {
+    "city": "Allentown",
+    "district": "PA-07",
+    "note": "Sample mapping only; use a real civic API before launch."
+  },
+  "17101": {
+    "city": "Harrisburg",
+    "district": "PA-10",
+    "note": "Sample mapping only; use a real civic API before launch."
+  },
+  "16501": {
+    "city": "Erie",
+    "district": "PA-16",
+    "note": "Sample mapping only; use a real civic API before launch."
+  },
+  "18503": {
+    "city": "Scranton",
+    "district": "PA-08",
+    "note": "Sample mapping only; use a real civic API before launch."
+  }
+}

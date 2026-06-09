@@ -1,0 +1,112 @@
+[
+  {
+    "axis": "economy_taxes",
+    "text": "Pennsylvania should prioritize lowering taxes and reducing the cost of doing business."
+  },
+  {
+    "axis": "economy_taxes",
+    "text": "The state should use more public investment to lower household costs and create jobs.",
+    "reverse": true
+  },
+  {
+    "axis": "healthcare",
+    "text": "Pennsylvania should protect Medicaid and public healthcare funding, even if it requires more state spending."
+  },
+  {
+    "axis": "healthcare",
+    "text": "Rural hospital protection should be a major state priority."
+  },
+  {
+    "axis": "education",
+    "text": "The state should significantly increase funding for public schools."
+  },
+  {
+    "axis": "education",
+    "text": "Parents should have more school-choice options outside traditional public schools.",
+    "reverse": true
+  },
+  {
+    "axis": "abortion",
+    "text": "Pennsylvania should protect access to abortion."
+  },
+  {
+    "axis": "immigration",
+    "text": "The state should take a stricter approach to unauthorized immigration.",
+    "reverse": true
+  },
+  {
+    "axis": "energy_climate",
+    "text": "Pennsylvania should accelerate clean-energy investment, even if the transition is costly."
+  },
+  {
+    "axis": "energy_climate",
+    "text": "Energy policy should prioritize lower energy prices over climate regulation.",
+    "reverse": true
+  },
+  {
+    "axis": "crime_policing",
+    "text": "Pennsylvania should hire more police officers and increase law-enforcement resources."
+  },
+  {
+    "axis": "crime_policing",
+    "text": "Criminal justice reform should be prioritized over tougher enforcement.",
+    "reverse": true
+  },
+  {
+    "axis": "labor_unions",
+    "text": "The state should strengthen worker and union protections."
+  },
+  {
+    "axis": "labor_unions",
+    "text": "Employers need more flexibility from labor regulation.",
+    "reverse": true
+  },
+  {
+    "axis": "democracy_elections",
+    "text": "Pennsylvania should make voting more accessible, including easier mail voting."
+  },
+  {
+    "axis": "democracy_elections",
+    "text": "Pennsylvania should tighten election rules even if voting becomes less convenient.",
+    "reverse": true
+  },
+  {
+    "axis": "housing",
+    "text": "The state should intervene more aggressively to make housing affordable."
+  },
+  {
+    "axis": "housing",
+    "text": "Housing affordability should be addressed mainly by reducing barriers to private development.",
+    "reverse": true
+  },
+  {
+    "axis": "guns",
+    "text": "Pennsylvania should pass stronger gun-safety laws."
+  },
+  {
+    "axis": "guns",
+    "text": "Protecting gun rights should be prioritized over new firearm restrictions.",
+    "reverse": true
+  },
+  {
+    "axis": "lgbtq_rights",
+    "text": "Pennsylvania should strengthen anti-discrimination protections for LGBTQ+ people."
+  },
+  {
+    "axis": "lgbtq_rights",
+    "text": "Religious-liberty concerns should limit some LGBTQ+ policy requirements.",
+    "reverse": true
+  },
+  {
+    "axis": "immigration",
+    "text": "Immigrants should have broader access to state and local public services."
+  },
+  {
+    "axis": "education",
+    "text": "Workforce training and alternatives to four-year degrees should be expanded."
+  },
+  {
+    "axis": "economy_taxes",
+    "text": "Large employers should receive incentives if they create Pennsylvania jobs."
+  }
+]

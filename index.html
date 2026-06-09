@@ -1,0 +1,69 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Pennsylvania 2026 Policy Match</title>
+  <link rel="stylesheet" href="./src/styles.css" />
+</head>
+<body>
+  <header class="topbar">
+    <a class="brand" href="./index.html">PA Policy Match</a>
+    <nav>
+      <a href="./index.html">Match</a>
+      <a href="./methodology.html">Methodology</a>
+      <a href="./privacy.html">Privacy</a>
+    </nav>
+  </header>
+
+  <main>
+    <section class="hero">
+      <p class="eyebrow">Pennsylvania 2026 MVP</p>
+      <h1>Find your policy match for Pennsylvania’s 2026 midterm ballot.</h1>
+      <p class="lead">Start with the governor race, then use ZIP-code routing to prepare for House and local races. This is a prototype, not voting advice.</p>
+      <div class="hero-grid">
+        <div><strong>Governor</strong><span>Josh Shapiro vs. Stacy Garrity</span></div>
+        <div><strong>25 questions</strong><span>12 U.S. policy axes</span></div>
+        <div><strong>ZIP routing</strong><span>Sample PA district detection</span></div>
+      </div>
+    </section>
+
+    <section class="card">
+      <div class="section-head">
+        <h2>1. Enter your Pennsylvania ZIP Code</h2>
+        <p>This v0 uses a small sample ZIP map. A production version should use a real civic/geocoding API.</p>
+      </div>
+      <div class="zip-row">
+        <input id="zipInput" inputmode="numeric" maxlength="5" placeholder="e.g. 19104, 15213, 18101" />
+        <button id="zipBtn" class="button secondary">Check district</button>
+      </div>
+      <div id="districtResult" class="district-result"></div>
+    </section>
+
+    <section class="card" id="quiz">
+      <div class="section-head">
+        <h2>2. Answer policy questions</h2>
+        <p>Choose the answer closest to your view. Neutral is fine.</p>
+      </div>
+      <div id="questions"></div>
+      <button id="submitBtn" class="button primary">Show my match</button>
+    </section>
+
+    <section class="card hidden" id="resultCard">
+      <div class="section-head">
+        <h2>Your Pennsylvania 2026 match</h2>
+        <p>Similarity is based on distance between your policy profile and each candidate vector.</p>
+      </div>
+      <div id="topSummary"></div>
+      <div id="results"></div>
+      <div class="share-row">
+        <button id="shareBtn" class="button secondary">Copy share text</button>
+        <button id="resetBtn" class="button ghost">Reset</button>
+      </div>
+      <p class="notice">This result compares policy positions only. It does not evaluate character, competence, electability, or every issue on the ballot.</p>
+    </section>
+  </main>
+
+  <script type="module" src="./src/app.js"></script>
+</body>
+</html>

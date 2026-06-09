@@ -1,0 +1,30 @@
+{
+  "PA-03": {
+    "status": "House district detected",
+    "note": "Candidate matching not enabled in v0. Add confirmed nominees after primary/candidate filing data is finalized."
+  },
+  "PA-07": {
+    "status": "House district detected",
+    "note": "Competitive district; candidate module planned for v1."
+  },
+  "PA-08": {
+    "status": "House district detected",
+    "note": "Candidate module planned for v1."
+  },
+  "PA-10": {
+    "status": "House district detected",
+    "note": "Candidate module planned for v1."
+  },
+  "PA-12": {
+    "status": "House district detected",
+    "note": "Candidate module planned for v1."
+  },
+  "PA-16": {
+    "status": "House district detected",
+    "note": "Candidate module planned for v1."
+  },
+  "PA-17": {
+    "status": "House district detected",
+    "note": "Candidate module planned for v1."
+  }
+}

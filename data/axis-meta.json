@@ -1,0 +1,74 @@
+{
+  "economy_taxes": {
+    "name": "Economy & Taxes",
+    "left": "Public investment / targeted aid",
+    "right": "Lower taxes / business-first growth",
+    "explain": "Tax cuts, business climate, state spending, cost-of-living policy."
+  },
+  "healthcare": {
+    "name": "Healthcare",
+    "left": "Reduce public healthcare role",
+    "right": "Protect / expand public healthcare access",
+    "explain": "Medicaid, rural hospitals, insurance access, healthcare funding."
+  },
+  "education": {
+    "name": "Education",
+    "left": "School choice / local control",
+    "right": "More public-school funding",
+    "explain": "K-12 funding, higher education, school choice, workforce training."
+  },
+  "abortion": {
+    "name": "Abortion Rights",
+    "left": "More restrictions",
+    "right": "Protect abortion access",
+    "explain": "State-level abortion legality, reproductive rights, healthcare access."
+  },
+  "immigration": {
+    "name": "Immigration",
+    "left": "Stricter enforcement",
+    "right": "More inclusive / services-oriented",
+    "explain": "Unauthorized immigration, state cooperation, public benefits, enforcement."
+  },
+  "energy_climate": {
+    "name": "Energy & Climate",
+    "left": "Fossil-fuel / cost-first",
+    "right": "Clean-energy transition",
+    "explain": "Energy prices, climate regulation, renewables, gas, data-center power demand."
+  },
+  "crime_policing": {
+    "name": "Crime & Policing",
+    "left": "Civil liberties / reform-first",
+    "right": "More police / tougher enforcement",
+    "explain": "Police hiring, prosecution, crime prevention, criminal justice reform."
+  },
+  "labor_unions": {
+    "name": "Labor & Unions",
+    "left": "Employer flexibility",
+    "right": "Union / worker protections",
+    "explain": "Minimum wage, union rights, public-sector labor, workforce programs."
+  },
+  "democracy_elections": {
+    "name": "Democracy & Elections",
+    "left": "Tighter election rules",
+    "right": "Voting access / institutional trust",
+    "explain": "Election administration, mail voting, access, certification, democratic norms."
+  },
+  "housing": {
+    "name": "Housing",
+    "left": "Market-led supply",
+    "right": "Public affordability intervention",
+    "explain": "Housing costs, rent, development, public affordability programs."
+  },
+  "guns": {
+    "name": "Gun Policy",
+    "left": "Gun rights",
+    "right": "Stronger gun regulation",
+    "explain": "Background checks, assault weapons, concealed carry, gun violence policy."
+  },
+  "lgbtq_rights": {
+    "name": "LGBTQ+ Rights",
+    "left": "Religious liberty / restrictions",
+    "right": "Anti-discrimination protections",
+    "explain": "LGBTQ protections, schools, civil rights, gender identity policy."
+  }
+}

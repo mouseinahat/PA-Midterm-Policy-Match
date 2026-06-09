@@ -1,0 +1,45 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Methodology | PA Policy Match</title>
+  <link rel="stylesheet" href="./src/styles.css" />
+</head>
+<body>
+  <header class="topbar">
+    <a class="brand" href="./index.html">PA Policy Match</a>
+    <nav>
+      <a href="./index.html">Match</a>
+      <a href="./methodology.html">Methodology</a>
+      <a href="./privacy.html">Privacy</a>
+    </nav>
+  </header>
+
+  <main>
+    <section class="hero compact">
+      <p class="eyebrow">Transparency</p>
+      <h1>Methodology</h1>
+      <p class="lead">This MVP converts user answers and candidate issue positions into the same 12-axis policy vector.</p>
+    </section>
+
+    <section class="card">
+      <h2>How scoring works</h2>
+      <p>Each answer is converted to a value from -2 to +2. Candidate positions are also modeled from -2 to +2. The app calculates distance on each shared axis and converts the average distance into a similarity percentage.</p>
+      <p class="notice">Production requirement: every candidate score should cite a campaign page, public statement, voting record, or reputable source.</p>
+    </section>
+
+    <section class="card">
+      <h2>Policy axes</h2>
+      <div id="axisTable"></div>
+    </section>
+
+    <section class="card">
+      <h2>Candidate vectors</h2>
+      <div id="candidateTable"></div>
+    </section>
+  </main>
+
+  <script type="module" src="./src/methodology.js"></script>
+</body>
+</html>

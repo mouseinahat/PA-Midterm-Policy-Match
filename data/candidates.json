@@ -1,0 +1,44 @@
+{
+  "Josh Shapiro": {
+    "party": "Democratic",
+    "race": "Pennsylvania Governor",
+    "status": "Incumbent / presumptive Democratic nominee",
+    "tagline": "Pragmatic Democrat: public schools, healthcare protection, abortion rights, economic development",
+    "description": "Modeled as a center-left incumbent emphasizing public education, healthcare protection, abortion access, workforce development, police hiring, and business-friendly economic development.",
+    "vector": {
+      "economy_taxes": 0,
+      "healthcare": 2,
+      "education": 2,
+      "abortion": 2,
+      "immigration": 1,
+      "energy_climate": 1,
+      "crime_policing": 1,
+      "labor_unions": 1,
+      "democracy_elections": 2,
+      "housing": 1,
+      "guns": 1,
+      "lgbtq_rights": 2
+    }
+  },
+  "Stacy Garrity": {
+    "party": "Republican",
+    "race": "Pennsylvania Governor",
+    "status": "Presumptive Republican nominee",
+    "tagline": "Trump-aligned Republican: lower taxes, border security, spending restraint, pro-business growth",
+    "description": "Modeled as a conservative Republican emphasizing tax relief, economic growth, spending restraint, stricter immigration enforcement, and alignment with national Republican policy priorities.",
+    "vector": {
+      "economy_taxes": 2,
+      "healthcare": -1,
+      "education": -1,
+      "abortion": -1,
+      "immigration": -2,
+      "energy_climate": -1,
+      "crime_policing": 2,
+      "labor_unions": -1,
+      "democracy_elections": -1,
+      "housing": -1,
+      "guns": -2,
+      "lgbtq_rights": -1
+    }
+  }
+}
