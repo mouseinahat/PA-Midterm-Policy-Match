@@ -1,0 +1,50 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Sources | PA Policy Match</title>
+  <link rel="stylesheet" href="./src/styles.css" />
+</head>
+<body>
+  <header class="topbar">
+    <a class="brand" href="./index.html">PA Policy Match</a>
+    <nav>
+      <a href="./index.html">Match</a>
+      <a href="./methodology.html">Methodology</a>
+      <a href="./sources.html">Sources</a>
+      <a href="./privacy.html">Privacy</a>
+    </nav>
+  </header>
+
+  <main>
+    <section class="hero compact">
+      <p class="eyebrow">Evidence & Transparency</p>
+      <h1>Candidate Position Sources</h1>
+      <p class="lead">This page explains the evidence behind candidate policy scores. Every scoring decision should be inspectable, challengeable, and improvable.</p>
+    </section>
+
+    <section class="card warning-card">
+      <h2>Important note</h2>
+      <p id="disclaimer">Loading...</p>
+      <p class="notice">Last updated: <span id="lastUpdated">Loading...</span></p>
+    </section>
+
+    <section class="card">
+      <div class="section-head">
+        <h2>How to read this page</h2>
+        <p>Each row shows a policy axis, provisional score, confidence level, summary, and supporting links.</p>
+      </div>
+      <div class="score-guide">
+        <div><strong>-2</strong><span>Strongly left-side axis position</span></div>
+        <div><strong>0</strong><span>Mixed, unclear, or moderate</span></div>
+        <div><strong>+2</strong><span>Strongly right-side axis position</span></div>
+      </div>
+    </section>
+
+    <section id="candidateSources"></section>
+  </main>
+
+  <script type="module" src="./src/sources.js"></script>
+</body>
+</html>
