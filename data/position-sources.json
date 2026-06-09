@@ -1,0 +1,207 @@
+{
+  "last_updated": "2026-06-09",
+  "disclaimer": "This is a provisional source file. Candidate vectors should not be treated as final until every score has at least one primary or high-quality secondary source.",
+  "candidates": {
+    "Josh Shapiro": {
+      "race": "Pennsylvania Governor",
+      "party": "Democratic",
+      "overall_note": "Modeled from public actions as governor, prior campaign platform, official state actions, and reputable reporting.",
+      "positions": [
+        {
+          "axis": "Healthcare",
+          "score": 2,
+          "confidence": "medium-high",
+          "summary": "Opposes major Medicaid cuts and has warned that federal cuts could reduce coverage and harm rural hospitals.",
+          "sources": [
+            {
+              "label": "AP News \u2014 Medicaid cuts warning",
+              "url": "https://apnews.com/article/4514fba111c3a2d14d54f1b66bbd065a",
+              "type": "news"
+            }
+          ]
+        },
+        {
+          "axis": "Abortion Rights",
+          "score": 2,
+          "confidence": "high",
+          "summary": "Has supported protecting abortion access and ended state funding for Real Alternatives, an anti-abortion counseling network.",
+          "sources": [
+            {
+              "label": "Josh Shapiro profile \u2014 abortion access / Real Alternatives",
+              "url": "https://en.wikipedia.org/wiki/Josh_Shapiro",
+              "type": "reference"
+            }
+          ]
+        },
+        {
+          "axis": "Democracy & Elections",
+          "score": 2,
+          "confidence": "medium-high",
+          "summary": "Implemented automatic voter registration for eligible Pennsylvanians at DMV interactions.",
+          "sources": [
+            {
+              "label": "Josh Shapiro profile \u2014 automatic voter registration",
+              "url": "https://en.wikipedia.org/wiki/Josh_Shapiro",
+              "type": "reference"
+            }
+          ]
+        },
+        {
+          "axis": "Crime & Policing",
+          "score": 1,
+          "confidence": "medium",
+          "summary": "Has supported hiring additional police officers and emphasized having more officers on the beat.",
+          "sources": [
+            {
+              "label": "Josh Shapiro profile \u2014 police hiring proposal",
+              "url": "https://en.wikipedia.org/wiki/Josh_Shapiro",
+              "type": "reference"
+            }
+          ]
+        },
+        {
+          "axis": "Education",
+          "score": 2,
+          "confidence": "medium",
+          "summary": "Modeled as supportive of public education funding, while noting he has also shown openness to private-school voucher/scholarship proposals.",
+          "sources": [
+            {
+              "label": "Wall Street Journal \u2014 Shapiro and school vouchers",
+              "url": "https://www.wsj.com/politics/elections/veepstakes-puts-spotlight-on-josh-shapiros-support-for-private-school-vouchers-ccd56069",
+              "type": "news"
+            }
+          ]
+        },
+        {
+          "axis": "Energy & Climate",
+          "score": 1,
+          "confidence": "medium",
+          "summary": "Modeled as moderate clean-energy support, with some skepticism toward more aggressive climate-market approaches such as RGGI.",
+          "sources": [
+            {
+              "label": "Josh Shapiro profile \u2014 energy and RGGI",
+              "url": "https://en.wikipedia.org/wiki/Josh_Shapiro",
+              "type": "reference"
+            }
+          ]
+        },
+        {
+          "axis": "Economy & Taxes",
+          "score": 0,
+          "confidence": "medium",
+          "summary": "Modeled as economically mixed: supports job creation, workforce development, and has supported corporate tax reduction.",
+          "sources": [
+            {
+              "label": "Josh Shapiro profile \u2014 corporate tax and workforce",
+              "url": "https://en.wikipedia.org/wiki/Josh_Shapiro",
+              "type": "reference"
+            }
+          ]
+        }
+      ],
+      "needs_more_sources": [
+        "Immigration",
+        "Housing",
+        "Gun Policy",
+        "LGBTQ+ Rights",
+        "Labor & Unions"
+      ]
+    },
+    "Stacy Garrity": {
+      "race": "Pennsylvania Governor",
+      "party": "Republican",
+      "overall_note": "Modeled from campaign launch reporting, public support for national Republican fiscal/border legislation, record as Pennsylvania Treasurer, and Trump-aligned campaign positioning.",
+      "positions": [
+        {
+          "axis": "Economy & Taxes",
+          "score": 2,
+          "confidence": "medium",
+          "summary": "Campaign positioning emphasizes inflation, lower costs, spending restraint, and putting money back in taxpayers' pockets.",
+          "sources": [
+            {
+              "label": "Politico \u2014 Garrity launches gubernatorial campaign",
+              "url": "https://www.politico.com/news/2025/08/18/stacy-garrity-challenge-shapiro-pennsylvania-governor-00513317",
+              "type": "news"
+            },
+            {
+              "label": "Stacy Garrity profile \u2014 support for OBBB framing",
+              "url": "https://en.wikipedia.org/wiki/Stacy_Garrity",
+              "type": "reference"
+            }
+          ]
+        },
+        {
+          "axis": "Immigration",
+          "score": -2,
+          "confidence": "medium",
+          "summary": "Modeled as stricter enforcement based on support for Trump-aligned border security policy and campaign positioning.",
+          "sources": [
+            {
+              "label": "Stacy Garrity profile \u2014 support for border security messaging",
+              "url": "https://en.wikipedia.org/wiki/Stacy_Garrity",
+              "type": "reference"
+            },
+            {
+              "label": "One Big Beautiful Bill Act \u2014 border enforcement provisions",
+              "url": "https://en.wikipedia.org/wiki/One_Big_Beautiful_Bill_Act",
+              "type": "reference"
+            }
+          ]
+        },
+        {
+          "axis": "Healthcare",
+          "score": -1,
+          "confidence": "medium-low",
+          "summary": "Provisional score based partly on support for federal Republican legislation associated with Medicaid reductions. Needs direct campaign healthcare position before launch.",
+          "sources": [
+            {
+              "label": "Stacy Garrity profile \u2014 OBBB support and Medicaid/SNAP cuts context",
+              "url": "https://en.wikipedia.org/wiki/Stacy_Garrity",
+              "type": "reference"
+            },
+            {
+              "label": "AP News \u2014 Shapiro warning about GOP Medicaid cuts",
+              "url": "https://apnews.com/article/4514fba111c3a2d14d54f1b66bbd065a",
+              "type": "news"
+            }
+          ]
+        },
+        {
+          "axis": "Crime & Policing",
+          "score": 2,
+          "confidence": "medium-low",
+          "summary": "Provisional conservative-law-and-order score. Needs direct Garrity campaign source before launch.",
+          "sources": [
+            {
+              "label": "Politico \u2014 campaign launch and Republican positioning",
+              "url": "https://www.politico.com/news/2025/08/18/stacy-garrity-challenge-shapiro-pennsylvania-governor-00513317",
+              "type": "news"
+            }
+          ]
+        },
+        {
+          "axis": "Democracy & Elections",
+          "score": -1,
+          "confidence": "low",
+          "summary": "Provisional score based on party alignment; needs direct campaign source.",
+          "sources": [
+            {
+              "label": "Stacy Garrity profile \u2014 2026 gubernatorial campaign",
+              "url": "https://en.wikipedia.org/wiki/Stacy_Garrity",
+              "type": "reference"
+            }
+          ]
+        }
+      ],
+      "needs_more_sources": [
+        "Abortion Rights",
+        "Education",
+        "Energy & Climate",
+        "Housing",
+        "Gun Policy",
+        "LGBTQ+ Rights",
+        "Labor & Unions"
+      ]
+    }
+  }
+}
